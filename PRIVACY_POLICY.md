@@ -4,7 +4,7 @@
 **Effective:** on the first public release of the app
 
 DoseNova ("the app", "we", "us") is operated by **Vijaylaxmi Gurjar**,
-Jaipur, Rajasthan, India, India. Contact: **dosenova01@gmail.com**.
+Jaipur, Rajasthan, India. Contact: **dosenova01@gmail.com**.
 
 ---
 
