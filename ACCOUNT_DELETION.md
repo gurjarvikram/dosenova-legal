@@ -2,8 +2,8 @@
 
 **Last updated:** 12 September 2026
 
-**App:** DoseNova (`com.medicare.reminder`)
-**Operated by:** **Vijaylaxmi Gurjar**, Jaipur, Rajasthan, India, India
+**App:** DoseNova (`com.dosenova.app`)
+**Operated by:** **Vijaylaxmi Gurjar**, Jaipur, Rajasthan, India
 **Contact:** **dosenova01@gmail.com**
 
 You can delete your DoseNova account and everything in it at any time. You do

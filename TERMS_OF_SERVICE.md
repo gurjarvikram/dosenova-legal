@@ -7,7 +7,7 @@
 
 By using DoseNova ("the app") you agree to these Terms. If you do not
 agree, do not use the app. The app is operated by **Vijaylaxmi Gurjar**,
-Jaipur, Rajasthan, India, India.
+Jaipur, Rajasthan, India.
 
 ## 2. Medical disclaimer — read this
 
