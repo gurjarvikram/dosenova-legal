@@ -40,18 +40,29 @@ missing, broken, or behind a login.
 ## Before these are relied upon
 
 These documents were drafted alongside the app, so they describe what it
-actually does rather than a template's guesses. Two things still need a human:
+actually does rather than a template's guesses. The operator is
+**Vijaylaxmi Gurjar**, Jaipur, Rajasthan, India, contactable at
+**dosenova01@gmail.com**, who is also the grievance officer named under the
+DPDP Act. Courts at Jaipur have jurisdiction under the terms.
 
-1. **Every `[BRACKETED]` value must be replaced** — the legal entity name, the
-   registered address, the grievance officer, and the city whose courts have
-   jurisdiction. They appear in the privacy policy and the terms.
-2. **Have a lawyer review them** — one qualified in Indian data-protection law
+Three things still need attention before these are relied on:
+
+1. **Have a lawyer review them** — one qualified in Indian data-protection law
    (DPDP Act 2023), and in GDPR as well if you serve users in the EU or UK. A
    privacy policy is a binding public representation, not marketing copy.
+2. **Consider a full postal address.** These documents give the operator's city
+   rather than a street address. That is common for an individual developer,
+   but the DPDP Act expects a contact a data principal can reach, and some
+   jurisdictions expect a postal address on a privacy notice.
+3. **Deploy the backend before publishing.** The deletion these documents
+   promise is carried out by a Cloud Function that erases the account's server
+   records and files the analytics deletion request. Publish these pages when
+   that function is live, not before — a promise the backend cannot yet keep is
+   the one thing worse than no page at all.
 
-The contact address in these documents is `meditrack21@gmail.com`, which is the
-address the app has used to date. If DoseNova gets its own address, change it
-here and in the app's `Env` defines together.
+The app links these documents by URL, passed to the build as
+`PRIVACY_POLICY_URL`, `TERMS_URL` and `ACCOUNT_DELETION_URL`. If the contact
+address changes, change it here and in those defines together.
 
 ## Changing them
 

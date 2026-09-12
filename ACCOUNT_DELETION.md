@@ -3,8 +3,8 @@
 **Last updated:** 12 September 2026
 
 **App:** DoseNova (`com.medicare.reminder`)
-**Operated by:** **[LEGAL ENTITY NAME]**, [REGISTERED ADDRESS], India
-**Contact:** **meditrack21@gmail.com**
+**Operated by:** **Vijaylaxmi Gurjar**, Jaipur, Rajasthan, India, India
+**Contact:** **dosenova01@gmail.com**
 
 You can delete your DoseNova account and everything in it at any time. You do
 not need to ask us, and you do not need a reason.
@@ -27,7 +27,7 @@ records held on our servers are erased automatically straight afterwards.
 ## Delete it without the app
 
 If you have uninstalled DoseNova, lost the device, or cannot sign in, email
-**meditrack21@gmail.com** from the address on the account with the subject
+**dosenova01@gmail.com** from the address on the account with the subject
 **Delete my account**.
 
 We may ask you to confirm ownership of the address before we act — an account

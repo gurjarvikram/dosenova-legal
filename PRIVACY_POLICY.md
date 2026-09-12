@@ -3,8 +3,8 @@
 **Last updated:** 12 September 2026
 **Effective:** on the first public release of the app
 
-DoseNova ("the app", "we", "us") is operated by **[LEGAL ENTITY NAME]**,
-[REGISTERED ADDRESS], India. Contact: **meditrack21@gmail.com**.
+DoseNova ("the app", "we", "us") is operated by **Vijaylaxmi Gurjar**,
+Jaipur, Rajasthan, India, India. Contact: **dosenova01@gmail.com**.
 
 ---
 
@@ -132,8 +132,11 @@ process data outside India under Google's standard contractual clauses.
 
 You may:
 
-- **Access and export** your data — email us and we will send you a copy
-  within 30 days. *(An in-app export is not yet available.)*
+- **Access and export** your data. The app itself exports a **health report
+  PDF** of your medicines and dose history — Settings → Export report — which
+  is generated on your device and shared wherever you choose. For a complete
+  copy of everything held on your account, email us and we will send it within
+  **30 days**.
 - **Correct** any detail — edit it in the app.
 - **Delete everything** — Profile → Delete account, or by email; the steps are
   in [Account Deletion](ACCOUNT_DELETION.md). This signs you out,
@@ -151,7 +154,7 @@ You may:
 - **Complain** to the Data Protection Board of India, or your local
   supervisory authority.
 
-To exercise any right, email **meditrack21@gmail.com**. We respond within
+To exercise any right, email **dosenova01@gmail.com**. We respond within
 **30 days**.
 
 ---
@@ -221,7 +224,7 @@ be notified in the app before they take effect.
 
 ## 13. Contact
 
-**[LEGAL ENTITY NAME]**
-[REGISTERED ADDRESS]
-Email: **meditrack21@gmail.com**
-Grievance Officer (DPDP Act, India): **[NAME]**, **meditrack21@gmail.com**
+**Vijaylaxmi Gurjar**
+Jaipur, Rajasthan, India
+Email: **dosenova01@gmail.com**
+Grievance Officer (DPDP Act, India): **Vijaylaxmi Gurjar**, **dosenova01@gmail.com**

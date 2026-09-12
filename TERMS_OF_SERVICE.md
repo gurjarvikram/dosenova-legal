@@ -6,8 +6,8 @@
 ## 1. Agreement
 
 By using DoseNova ("the app") you agree to these Terms. If you do not
-agree, do not use the app. The app is operated by **[LEGAL ENTITY NAME]**,
-[REGISTERED ADDRESS], India.
+agree, do not use the app. The app is operated by **Vijaylaxmi Gurjar**,
+Jaipur, Rajasthan, India, India.
 
 ## 2. Medical disclaimer — read this
 
@@ -84,11 +84,14 @@ display it back to you.
 
 ## 8. Third-party services
 
-The app relies on Google Firebase and Google Play Billing, and — where you
-choose to use them — partner pharmacies. **The app contains no advertising and
-no advertising SDKs.** Their terms apply to their
-services. **We are not a pharmacy and do not sell medicines**; any order is a
-contract between you and that pharmacy.
+The app relies on Google Firebase and Google Play Billing, and their terms
+apply to their services. **The app contains no advertising and no advertising
+SDKs.**
+
+If pharmacy ordering is offered in a future version and you choose to use it,
+**we are not a pharmacy and do not sell medicines**: any order is a contract
+between you and that pharmacy. No such feature is available in the current
+version.
 
 ## 9. Availability
 
@@ -98,7 +101,7 @@ material changes.
 
 ## 10. Limitation of liability
 
-To the maximum extent permitted by law, **[LEGAL ENTITY NAME]** is not liable
+To the maximum extent permitted by law, **Vijaylaxmi Gurjar** is not liable
 for indirect, incidental, special or consequential damages, or for any harm
 arising from a missed, delayed or duplicated dose. Our total aggregate
 liability is limited to the greater of the amount you paid us in the preceding
@@ -116,7 +119,7 @@ accounts that breach these Terms, with notice where practicable.
 
 ## 12. Governing law
 
-These Terms are governed by the laws of India. Courts at **[CITY]**, India have
+These Terms are governed by the laws of India. Courts at **Jaipur**, India have
 exclusive jurisdiction.
 
 ## 13. Changes
@@ -126,5 +129,5 @@ effect. Continued use after that constitutes acceptance.
 
 ## 14. Contact
 
-**[LEGAL ENTITY NAME]** · [REGISTERED ADDRESS]
-meditrack21@gmail.com
+**Vijaylaxmi Gurjar** · Jaipur, Rajasthan, India
+dosenova01@gmail.com
