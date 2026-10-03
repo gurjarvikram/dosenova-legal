@@ -16,8 +16,9 @@ Jaipur, Rajasthan, India. Contact: **dosenova01@gmail.com**.
   you can restore it on a new phone.
 - **We do not sell your data. We never share health information with
   advertisers, insurers, employers or data brokers.**
-- **Nobody else can see your medication information unless you invite them as
-  a caregiver.** You choose who, and which kinds of information they can see,
+- **Nobody else can see the medication information in your account — yours,
+  or that of the family members you manage — unless you invite them as a
+  caregiver.** You choose who, and which kinds of information they can see,
   and you can remove them at any time — see § 3.1, which lists exactly what
   each kind includes.
 - **The app contains no advertising.** There are no ads, no ad SDKs and no
@@ -95,8 +96,12 @@ Medicine names, dosages, schedules, adherence records and prescriptions are
 ### 3.1 Sharing with a caregiver
 
 Caregiver mode lets you give another person — a family member, a friend, a
-nurse — **read-only** access to part of your medication information from their
-own DoseNova account. It only ever starts with you.
+nurse — **read-only** access to part of the medication information in your
+account from their own DoseNova account. It only ever starts with you.
+
+**It covers everyone in your account.** Whatever you share, you share for you
+**and every family profile you manage**: a caregiver cannot be given one
+person's records without the others'.
 
 **You choose who.** You invite someone by their email address. They must sign
 in to DoseNova with that same, verified email address to accept, and they can
@@ -110,9 +115,9 @@ nothing is granted by default:
 
 | Permission | What the caregiver can then see |
 |---|---|
-| View medicines | Your medicines as you entered them — name, generic name, form, dose, instructions, stock and dates — and their reminder schedules. Also the **family profiles** those medicines belong to, including your own, in full: name, relationship, date of birth, blood group, allergies and profile picture |
-| View adherence | Your dose history — when each dose was due, whether it was taken, skipped, missed or snoozed, and any note you added to it — together with your medicines and the same full family profiles |
-| View refill status | Your medicines, their reminder schedules and your refill alerts — **not** your family profiles |
+| View medicines | The medicines of everyone in your account — you and each family profile you manage — as they were entered: name, generic name, form, dose, instructions, stock and dates; and their reminder schedules. Also those **family profiles**, including your own, in full: name, relationship, date of birth, blood group, allergies and profile picture |
+| View adherence | The dose history of everyone in your account — when each dose was due, whether it was taken, skipped, missed or snoozed, and any note added to it — together with their medicines and the same full family profiles |
+| View refill status | The medicines of everyone in your account, their reminder schedules and the refill alerts — **not** the family profiles |
 | Missed-dose alerts | Nothing to read. It allows us to notify the caregiver when you miss a dose (below) |
 
 Family profiles are shared whole. The caregiver's app shows them only the
@@ -143,16 +148,22 @@ is withdrawn if you take or skip the dose before it is sent. Alerts are raised
 for your own doses only, never for family members you manage.
 
 **On the caregiver's device.** So that it works offline, the caregiver's app
-keeps a copy of the summary they are allowed to see. It is removed when their
-access ends and their app next checks, and a refused read is treated as the end
-of access straight away.
+keeps a summary of what they are allowed to see, and deletes it when their
+access ends and their app next checks; a refused read counts as the end of
+access straight away. That summary is not the only copy. The database software
+the app uses also keeps an **offline cache** on the caregiver's phone of the
+records it last fetched for them — family profiles in full included — and today
+nothing clears that cache when their access ends, when they sign out, or when
+either of you deletes your account. It stays on their phone until the app's
+data is cleared there or the app is uninstalled. Once their app has seen that
+access ended it no longer shows any of it, but the copy remains on the phone.
 
 **Removing access.** You can remove a caregiver, or narrow what they can see,
 at any time from **Profile → Caregivers**. Our servers refuse their reads as
 soon as the change reaches them — immediately when you are online, or as soon
-as your phone reconnects. Deleting your account also ends every caregiver's
-access, and if you are somebody's caregiver, deleting your account ends your
-access to theirs.
+as your phone reconnects. What their phone already holds is described above.
+Deleting your account also ends every caregiver's access, and if you are
+somebody's caregiver, deleting your account ends your access to theirs.
 
 **If you were invited.** If someone invites you as their caregiver, your email
 address is stored in their account so that you can find the invitation, with
@@ -215,6 +226,7 @@ process data outside India under Google's standard contractual clauses.
 | Analytics events tied to your account | Until you delete your account, then deleted at Google by request. Google completes the deletion within 72 hours. Events collected before you signed in carry no account identifier and expire after at most 14 months. |
 | Caregiver invitations and access records | Until the account they belong to is deleted. A removed caregiver's record is kept, marked as removed, so their access stays refused on every device. A caregiver who deletes their own account stays named on these records, with their email address, until the inviting account is deleted (§ 3.1) |
 | Missed-dose alert records, and which caregivers were notified | Until you delete your account |
+| Records a caregiver's app last fetched, in the offline cache on that caregiver's phone | Until the app's data is cleared on that phone or the app is uninstalled. Removing the caregiver, or deleting either account, does not reach it (§ 3.1) |
 | Backups | Up to 30 days after deletion, then permanently erased |
 
 ---
@@ -238,7 +250,8 @@ You may:
   the analytics data tied to your account, and your account identifier is
   removed from crash reporting; see § 6 for what Google retains and for how
   long. If you were somebody's caregiver, your access ends, but your name and
-  email address stay on their record of it (§ 3.1).
+  email address stay on their record of it. Records a caregiver's app had
+  already fetched can also stay in its offline cache on their phone (§ 3.1).
 - **Withdraw consent** by deleting your account, or by switching analytics off
   in Settings → Data & sync.
 - **Opt out of analytics** — Settings → Data & sync. Nothing is collected until
