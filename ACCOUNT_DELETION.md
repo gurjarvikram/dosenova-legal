@@ -1,6 +1,6 @@
 # Account Deletion — DoseNova
 
-**Last updated:** 12 September 2026
+**Last updated:** 3 October 2026
 
 **App:** DoseNova (`com.dosenova.app`)
 **Operated by:** **Vijaylaxmi Gurjar**, Jaipur, Rajasthan, India
@@ -50,8 +50,11 @@ Everything below is erased from our servers and from your device:
 - Your emergency medical profile, which never leaves the device in the first
   place
 - Purchase records held for verifying your subscription
-- Caregiver connections: a caregiver you invited loses access to your records,
-  and if you were a caregiver for somebody else, your access to theirs ends
+- Caregiver connections: every caregiver you invited loses access to your
+  records, and your invitations, the records of who had access and your
+  missed-dose alert records are erased. If you were a caregiver for somebody
+  else, your access to theirs ends — see the table below for what stays in
+  their account
 
 Health report PDFs you exported and shared are yours and are not ours to
 delete. They are on your device, or wherever you sent them.
@@ -64,8 +67,10 @@ delete. They are on your device, or wherever you sent them.
 | Crash reports | Up to **90 days** from when each was received, then deleted automatically. | A crash report cannot be deleted individually. When you delete your account, your identifier stops being attached to any new report, and any report still waiting on your device is discarded. |
 | Backups | Up to **30 days**, then permanently erased. | Backups are written on a rolling schedule and expire on their own. They are never used to restore a deleted account. |
 | Records we are required by law to keep | Only for as long as the law requires. | Tax and payment records, for example. These never include your medical data. |
+| If you were somebody's caregiver: your name and email address on their record of your access, and on any invitation they sent you | Until that person deletes their own account. | These are their records of who could see their medication information. Your access is marked as ended, so it stays refused on every device. See the [Privacy Policy](PRIVACY_POLICY.md), § 3.1. |
 
-Nothing in that table is used to rebuild your account or shown to anyone.
+Nothing in that table is used to rebuild your account, and none of it is shown
+to anyone except, for the last row, the person whose account holds it.
 
 ---
 
